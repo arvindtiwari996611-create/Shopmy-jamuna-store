@@ -277,4 +277,3 @@ function AdminModal({ isOpen, onClose, onAdd }: any) {
       </form>
     </div>
   );
-}
